@@ -159,7 +159,8 @@ To develop a comprehensive and interactive Power BI dashboard by:
 ## 📸 Screenshots
 
 ### 🔽 Data Cleaning Process
-![Data Cleaning](images/data_cleaning.png)
+<img width="1557" height="641" alt="part 1" src="https://github.com/user-attachments/assets/0345f02a-84cf-4642-8014-365da0dd0f78" />
+
 
 ### 📉 EDA Visuals
 ![Fare Distribution](images/eda_plots/fare_distribution.png)

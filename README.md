@@ -184,7 +184,8 @@ To develop a comprehensive and interactive Power BI dashboard by:
 
 
 ### 📍 Final Dashboard
-![Dashboard](images/dashboard_screenshots/dashboard_final.png)
+<img width="1217" height="703" alt="dashboard sc" src="https://github.com/user-attachments/assets/df5278ab-fffe-4334-b3b1-746646d0c82f" />
+
 
 ---
 

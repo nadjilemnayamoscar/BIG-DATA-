@@ -165,6 +165,8 @@ To develop a comprehensive and interactive Power BI dashboard by:
 
 <img width="1826" height="792" alt="part 5" src="https://github.com/user-attachments/assets/57d32d50-a269-4e92-8c42-38925d0d1667" />
 
+<img width="1446" height="529" alt="part 14" src="https://github.com/user-attachments/assets/f83943c4-8144-45c0-ad24-511fd917e9c4" />
+
 
 
 

@@ -175,7 +175,13 @@ To develop a comprehensive and interactive Power BI dashboard by:
 
 
 ### 📉 EDA Visuals
-![Fare Distribution](images/eda_plots/fare_distribution.png)
+
+<img width="1386" height="757" alt="FARE AMOUNT" src="https://github.com/user-attachments/assets/ec236676-c15f-4520-9712-50b604898284" />
+<img width="1417" height="732" alt="FA VS TRIP" src="https://github.com/user-attachments/assets/3c18f96e-f891-4c7a-8963-0673286f532b" />
+<img width="1410" height="702" alt="CM" src="https://github.com/user-attachments/assets/1d69450d-49c1-4161-803f-bd6729965abd" />
+
+
+
 
 ### 📍 Final Dashboard
 ![Dashboard](images/dashboard_screenshots/dashboard_final.png)
